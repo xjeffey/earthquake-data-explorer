@@ -1,0 +1,15 @@
+the summary command prints out a summary of the data and the collection
+the print command prints out all earthquake events
+the printByDate hit enter finds earthquakes dates
+the printByDepth hit enter and finds earthquakes depths
+the printByMag hit enter and finds all earthquakes magnitudes
+the printByPlace hit enter and search to find all earthquake places
+the printByStatus hit enter and find all earthquake statuses
+the searchDate hit enter and search (date1, dat2) command uses a date and finds earthquakes occuring during that date
+the searchLocation hit enter and type (location) command searches for earthquakes occuring at this location
+the searchDepth hit enter and type (depth) command searches for earthquakes matching this depth amount
+the searchMag hit enter and type (mag) command searches for earhtquakes with the following mag
+the searchMagType hit enter and type (magType) command searches for earthquakes with the same magType
+the searchPlace hit enter and type (place) command searches for earthquakes located in the same place
+the searchStatus hit enter and type (status) command searches for earthquakes with a matching status
+the stop function exits the program

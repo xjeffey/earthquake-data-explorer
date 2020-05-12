@@ -1,0 +1,69 @@
+Time: 2019-03-01T19:48:18.360Z
+Latitude: 17.9091
+Longitude: -66.04
+Depth: 13
+Magnitude: 1.2
+Magnitude Type: md
+NST: 6
+Gap: 250
+DMinutes: 0.0874
+RMS: 0.08
+Net: pr
+ID: pr2019060008
+Updated: 2019-03-01T23:27:53.224Z
+Place: 6km SSE of Arroyo, Puerto Rico
+Type: earthquake
+Horizontal Error: 0.62
+Depth Error: 0.3
+Magnitude Error: 0.42
+Magnitude NST: 5
+Status: reviewed
+Location Source: pr
+Magnitude Source: pr
+
+Time: 2019-02-08T22:03:23.970Z
+Latitude: 17.9403
+Longitude: -66.7966
+Depth: 9
+Magnitude: 1.67
+Magnitude Type: md
+NST: 3
+Gap: 221
+DMinutes: 0.2493
+RMS: 0.14
+Net: pr
+ID: pr2019039017
+Updated: 2019-02-09T02:18:45.839Z
+Place: 6km SSE of Indios, Puerto Rico
+Type: earthquake
+Horizontal Error: 2.83
+Depth Error: 11.24
+Magnitude Error: 0.01
+Magnitude NST: 3
+Status: reviewed
+Location Source: pr
+Magnitude Source: pr
+
+Time: 2019-02-11T04:54:33.940Z
+Latitude: 35.2625
+Longitude: -97.8475
+Depth: 5
+Magnitude: 2.2
+Magnitude Type: mb_lg
+NST: 
+Gap: 68
+DMinutes: 0.173
+RMS: 0.77
+Net: us
+ID: us2000jg75
+Updated: 2019-03-06T05:37:22.143Z
+Place: 4km SW of Tuttle, Oklahoma
+Type: earthquake
+Horizontal Error: 1.1
+Depth Error: 1.8
+Magnitude Error: 0.208
+Magnitude NST: 6
+Status: reviewed
+Location Source: us
+Magnitude Source: us
+

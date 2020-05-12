@@ -1,0 +1,92 @@
+Time: 2019-02-25T17:02:20.834Z
+Latitude: 59.8492
+Longitude: -153.3586
+Depth: 126.6
+Magnitude: 3.2
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.61
+Net: ak
+ID: ak0192kw89yn
+Updated: 2019-02-26T04:58:15.805Z
+Place: 78km SSW of Redoubt Volcano, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 0.4
+Magnitude Error: 
+Magnitude NST: 
+Status: automatic
+Location Source: ak
+Magnitude Source: ak
+
+Time: 2019-02-17T19:33:28.987Z
+Latitude: 61.5959
+Longitude: -151.6459
+Depth: 249.9
+Magnitude: 2
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.95
+Net: ak
+ID: ak01927pb12a
+Updated: 2019-02-17T19:36:43.121Z
+Place: 86km W of Willow, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 6.5
+Magnitude Error: 
+Magnitude NST: 
+Status: automatic
+Location Source: ak
+Magnitude Source: ak
+
+Time: 2019-02-18T19:18:56.090Z
+Latitude: 19.4081669
+Longitude: -155.2825012
+Depth: 0.33
+Magnitude: 1.73
+Magnitude Type: ml
+NST: 20
+Gap: 62
+DMinutes: 0.009565
+RMS: 0.11
+Net: hv
+ID: hv70816646
+Updated: 2019-02-18T19:24:39.600Z
+Place: 5km WSW of Volcano, Hawaii
+Type: earthquake
+Horizontal Error: 0.14
+Depth Error: 0.2
+Magnitude Error: 0.32
+Magnitude NST: 10
+Status: automatic
+Location Source: hv
+Magnitude Source: hv
+
+Time: 2019-02-11T04:54:27.348Z
+Latitude: 62.4597
+Longitude: -151.3093
+Depth: 75.9
+Magnitude: 1.5
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.7
+Net: ak
+ID: ak0191xj9xxw
+Updated: 2019-02-11T04:59:20.368Z
+Place: 63km WNW of Talkeetna, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 0.8
+Magnitude Error: 
+Magnitude NST: 
+Status: automatic
+Location Source: ak
+Magnitude Source: ak
+

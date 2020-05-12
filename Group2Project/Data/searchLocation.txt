@@ -1,0 +1,23 @@
+Time: 2019-02-08T04:53:18.873Z
+Latitude: 61.7884
+Longitude: -149.651
+Depth: 40.4
+Magnitude: 1.1
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.5
+Net: ak
+ID: ak0191sknnzb
+Updated: 2019-02-23T02:11:18.295Z
+Place: 18km N of Meadow Lakes, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 0.3
+Magnitude Error: 
+Magnitude NST: 
+Status: reviewed
+Location Source: ak
+Magnitude Source: ak
+

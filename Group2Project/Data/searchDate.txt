@@ -1,0 +1,23 @@
+Time: 2019-02-05T17:48:00.460Z
+Latitude: 37.6376667
+Longitude: -118.9301667
+Depth: 4.69
+Magnitude: 0.89
+Magnitude Type: md
+NST: 17
+Gap: 75
+DMinutes: 0.02589
+RMS: 0.04
+Net: nc
+ID: nc73138410
+Updated: 2019-02-05T19:14:03.749Z
+Place: 4km E of Mammoth Lakes, CA
+Type: earthquake
+Horizontal Error: 0.34
+Depth Error: 0.55
+Magnitude Error: 0.422
+Magnitude NST: 15
+Status: reviewed
+Location Source: nc
+Magnitude Source: nc
+

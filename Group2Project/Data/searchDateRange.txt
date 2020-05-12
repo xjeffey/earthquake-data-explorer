@@ -1,0 +1,93 @@
+Time: 2019-02-05T17:48:00.460Z
+Latitude: 37.6376667
+Longitude: -118.9301667
+Depth: 4.69
+Magnitude: 0.89
+Magnitude Type: md
+NST: 17
+Gap: 75
+DMinutes: 0.02589
+RMS: 0.04
+Net: nc
+ID: nc73138410
+Updated: 2019-02-05T19:14:03.749Z
+Place: 4km E of Mammoth Lakes, CA
+Type: earthquake
+Horizontal Error: 0.34
+Depth Error: 0.55
+Magnitude Error: 0.422
+Magnitude NST: 15
+Status: reviewed
+Location Source: nc
+Magnitude Source: nc
+
+Time: 2019-02-08T04:53:18.873Z
+Latitude: 61.7884
+Longitude: -149.651
+Depth: 40.4
+Magnitude: 1.1
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.5
+Net: ak
+ID: ak0191sknnzb
+Updated: 2019-02-23T02:11:18.295Z
+Place: 18km N of Meadow Lakes, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 0.3
+Magnitude Error: 
+Magnitude NST: 
+Status: reviewed
+Location Source: ak
+Magnitude Source: ak
+
+Time: 2019-02-08T19:17:52.790Z
+Latitude: 39.7183333
+Longitude: -111.1453333
+Depth: 6.06
+Magnitude: 1.44
+Magnitude Type: ml
+NST: 14
+Gap: 140
+DMinutes: 0.09018
+RMS: 0.19
+Net: uu
+ID: uu60017269
+Updated: 2019-02-08T21:16:33.250Z
+Place: 25km W of Helper, Utah
+Type: earthquake
+Horizontal Error: 0.92
+Depth Error: 1.66
+Magnitude Error: 0.154
+Magnitude NST: 3
+Status: reviewed
+Location Source: uu
+Magnitude Source: uu
+
+Time: 2019-02-08T22:03:23.970Z
+Latitude: 17.9403
+Longitude: -66.7966
+Depth: 9
+Magnitude: 1.67
+Magnitude Type: md
+NST: 3
+Gap: 221
+DMinutes: 0.2493
+RMS: 0.14
+Net: pr
+ID: pr2019039017
+Updated: 2019-02-09T02:18:45.839Z
+Place: 6km SSE of Indios, Puerto Rico
+Type: earthquake
+Horizontal Error: 2.83
+Depth Error: 11.24
+Magnitude Error: 0.01
+Magnitude NST: 3
+Status: reviewed
+Location Source: pr
+Magnitude Source: pr
+
+

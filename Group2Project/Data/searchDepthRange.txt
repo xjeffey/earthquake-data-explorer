@@ -1,0 +1,185 @@
+Time: 2019-02-18T19:18:56.090Z
+Latitude: 19.4081669
+Longitude: -155.2825012
+Depth: 0.33
+Magnitude: 1.73
+Magnitude Type: ml
+NST: 20
+Gap: 62
+DMinutes: 0.009565
+RMS: 0.11
+Net: hv
+ID: hv70816646
+Updated: 2019-02-18T19:24:39.600Z
+Place: 5km WSW of Volcano, Hawaii
+Type: earthquake
+Horizontal Error: 0.14
+Depth Error: 0.2
+Magnitude Error: 0.32
+Magnitude NST: 10
+Status: automatic
+Location Source: hv
+Magnitude Source: hv
+
+Time: 2019-02-12T17:01:46.160Z
+Latitude: 38.8378333
+Longitude: -111.3933333
+Depth: 1.67
+Magnitude: 1.23
+Magnitude Type: ml
+NST: 11
+Gap: 106
+DMinutes: 0.06242
+RMS: 0.16
+Net: uu
+ID: uu60312147
+Updated: 2019-02-12T19:23:02.830Z
+Place: 36km SW of Ferron, Utah
+Type: earthquake
+Horizontal Error: 0.5
+Depth Error: 31.61
+Magnitude Error: 0.542
+Magnitude NST: 2
+Status: reviewed
+Location Source: uu
+Magnitude Source: uu
+
+Time: 2019-02-17T19:56:46.410Z
+Latitude: 35.9655
+Longitude: -120.5158333
+Depth: 1.93
+Magnitude: 0.13
+Magnitude Type: md
+NST: 16
+Gap: 62
+DMinutes: 0.01459
+RMS: 0.03
+Net: nc
+ID: nc73143206
+Updated: 2019-02-20T09:52:04.404Z
+Place: 11km NW of Parkfield, CA
+Type: earthquake
+Horizontal Error: 0.2
+Depth Error: 0.34
+Magnitude Error: 0.031
+Magnitude NST: 3
+Status: reviewed
+Location Source: nc
+Magnitude Source: nc
+
+Time: 2019-02-25T16:58:53.960Z
+Latitude: 36.0865
+Longitude: -117.6156667
+Depth: 2
+Magnitude: 1.52
+Magnitude Type: ml
+NST: 29
+Gap: 34
+DMinutes: 0.1065
+RMS: 0.13
+Net: ci
+ID: ci38473064
+Updated: 2019-02-25T22:52:48.460Z
+Place: 30km E of Coso Junction, CA
+Type: earthquake
+Horizontal Error: 0.16
+Depth Error: 0.33
+Magnitude Error: 0.143
+Magnitude NST: 19
+Status: reviewed
+Location Source: ci
+Magnitude Source: ci
+
+Time: 2019-03-02T15:41:05.560Z
+Latitude: 33.478
+Longitude: -116.7963333
+Depth: 4.37
+Magnitude: 0.54
+Magnitude Type: ml
+NST: 26
+Gap: 71
+DMinutes: 0.03444
+RMS: 0.17
+Net: ci
+ID: ci38481160
+Updated: 2019-03-04T15:55:38.623Z
+Place: 8km ENE of Aguanga, CA
+Type: earthquake
+Horizontal Error: 0.19
+Depth Error: 0.42
+Magnitude Error: 0.064
+Magnitude NST: 12
+Status: reviewed
+Location Source: ci
+Magnitude Source: ci
+
+Time: 2019-02-25T17:03:42.760Z
+Latitude: 35.9331667
+Longitude: -120.4806667
+Depth: 4.54
+Magnitude: 0.83
+Magnitude Type: md
+NST: 28
+Gap: 109
+DMinutes: 0.01534
+RMS: 0.05
+Net: nc
+ID: nc73145646
+Updated: 2019-02-26T22:49:02.781Z
+Place: 6km NW of Parkfield, CA
+Type: earthquake
+Horizontal Error: 0.21
+Depth Error: 0.36
+Magnitude Error: 0.203
+Magnitude NST: 11
+Status: reviewed
+Location Source: nc
+Magnitude Source: nc
+
+Time: 2019-02-05T17:48:00.460Z
+Latitude: 37.6376667
+Longitude: -118.9301667
+Depth: 4.69
+Magnitude: 0.89
+Magnitude Type: md
+NST: 17
+Gap: 75
+DMinutes: 0.02589
+RMS: 0.04
+Net: nc
+ID: nc73138410
+Updated: 2019-02-05T19:14:03.749Z
+Place: 4km E of Mammoth Lakes, CA
+Type: earthquake
+Horizontal Error: 0.34
+Depth Error: 0.55
+Magnitude Error: 0.422
+Magnitude NST: 15
+Status: reviewed
+Location Source: nc
+Magnitude Source: nc
+
+Time: 2019-02-11T04:54:33.940Z
+Latitude: 35.2625
+Longitude: -97.8475
+Depth: 5
+Magnitude: 2.2
+Magnitude Type: mb_lg
+NST: 
+Gap: 68
+DMinutes: 0.173
+RMS: 0.77
+Net: us
+ID: us2000jg75
+Updated: 2019-03-06T05:37:22.143Z
+Place: 4km SW of Tuttle, Oklahoma
+Type: earthquake
+Horizontal Error: 1.1
+Depth Error: 1.8
+Magnitude Error: 0.208
+Magnitude NST: 6
+Status: reviewed
+Location Source: us
+Magnitude Source: us
+
+

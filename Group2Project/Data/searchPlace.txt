@@ -1,0 +1,207 @@
+Time: 2019-02-08T04:53:18.873Z
+Latitude: 61.7884
+Longitude: -149.651
+Depth: 40.4
+Magnitude: 1.1
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.5
+Net: ak
+ID: ak0191sknnzb
+Updated: 2019-02-23T02:11:18.295Z
+Place: 18km N of Meadow Lakes, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 0.3
+Magnitude Error: 
+Magnitude NST: 
+Status: reviewed
+Location Source: ak
+Magnitude Source: ak
+
+Time: 2019-02-10T17:03:45.505Z
+Latitude: 66.2964
+Longitude: -157.1609
+Depth: 16.5
+Magnitude: 1.1
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.54
+Net: ak
+ID: ak0191w36c6u
+Updated: 2019-03-01T01:38:43.672Z
+Place: 69km S of Kobuk, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 0.4
+Magnitude Error: 
+Magnitude NST: 
+Status: reviewed
+Location Source: ak
+Magnitude Source: ak
+
+Time: 2019-03-01T19:47:56.940Z
+Latitude: 53.9737
+Longitude: 170.573
+Depth: 25.94
+Magnitude: 4.2
+Magnitude Type: mb
+NST: 
+Gap: 149
+DMinutes: 7.177
+RMS: 0.68
+Net: us
+ID: us1000j9ht
+Updated: 2019-03-05T19:31:42.040Z
+Place: 214km NW of Attu Station, Alaska
+Type: earthquake
+Horizontal Error: 8
+Depth Error: 6.4
+Magnitude Error: 0.058
+Magnitude NST: 84
+Status: reviewed
+Location Source: us
+Magnitude Source: us
+
+Time: 2019-02-13T18:25:22.357Z
+Latitude: 66.3092
+Longitude: -157.1915
+Depth: 6
+Magnitude: 3
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.6
+Net: ak
+ID: ak019212ih8n
+Updated: 2019-03-01T00:39:50.057Z
+Place: 68km SSW of Kobuk, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 0.1
+Magnitude Error: 
+Magnitude NST: 
+Status: reviewed
+Location Source: ak
+Magnitude Source: ak
+
+Time: 2019-02-13T18:25:06.286Z
+Latitude: 63.3112
+Longitude: -150.9662
+Depth: 15.5
+Magnitude: 0.5
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.66
+Net: ak
+ID: ak019212ifpu
+Updated: 2019-03-01T00:39:49.258Z
+Place: 101km W of Cantwell, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 0.5
+Magnitude Error: 
+Magnitude NST: 
+Status: reviewed
+Location Source: ak
+Magnitude Source: ak
+
+Time: 2019-02-25T17:02:20.834Z
+Latitude: 59.8492
+Longitude: -153.3586
+Depth: 126.6
+Magnitude: 3.2
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.61
+Net: ak
+ID: ak0192kw89yn
+Updated: 2019-02-26T04:58:15.805Z
+Place: 78km SSW of Redoubt Volcano, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 0.4
+Magnitude Error: 
+Magnitude NST: 
+Status: automatic
+Location Source: ak
+Magnitude Source: ak
+
+Time: 2019-02-17T19:33:28.987Z
+Latitude: 61.5959
+Longitude: -151.6459
+Depth: 249.9
+Magnitude: 2
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.95
+Net: ak
+ID: ak01927pb12a
+Updated: 2019-02-17T19:36:43.121Z
+Place: 86km W of Willow, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 6.5
+Magnitude Error: 
+Magnitude NST: 
+Status: automatic
+Location Source: ak
+Magnitude Source: ak
+
+Time: 2019-02-18T19:19:40.457Z
+Latitude: 61.0378
+Longitude: -151.9652
+Depth: 81.7
+Magnitude: 1.7
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.59
+Net: ak
+ID: ak01929creba
+Updated: 2019-03-06T23:20:14.609Z
+Place: 53km NW of Nikiski, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 0.2
+Magnitude Error: 
+Magnitude NST: 
+Status: reviewed
+Location Source: ak
+Magnitude Source: ak
+
+Time: 2019-02-11T04:54:27.348Z
+Latitude: 62.4597
+Longitude: -151.3093
+Depth: 75.9
+Magnitude: 1.5
+Magnitude Type: ml
+NST: 
+Gap: 
+DMinutes: 
+RMS: 0.7
+Net: ak
+ID: ak0191xj9xxw
+Updated: 2019-02-11T04:59:20.368Z
+Place: 63km WNW of Talkeetna, Alaska
+Type: earthquake
+Horizontal Error: 
+Depth Error: 0.8
+Magnitude Error: 
+Magnitude NST: 
+Status: automatic
+Location Source: ak
+Magnitude Source: ak
+

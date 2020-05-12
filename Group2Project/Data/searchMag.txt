@@ -1,0 +1,23 @@
+Time: 2019-02-11T04:54:33.940Z
+Latitude: 35.2625
+Longitude: -97.8475
+Depth: 5
+Magnitude: 2.2
+Magnitude Type: mb_lg
+NST: 
+Gap: 68
+DMinutes: 0.173
+RMS: 0.77
+Net: us
+ID: us2000jg75
+Updated: 2019-03-06T05:37:22.143Z
+Place: 4km SW of Tuttle, Oklahoma
+Type: earthquake
+Horizontal Error: 1.1
+Depth Error: 1.8
+Magnitude Error: 0.208
+Magnitude NST: 6
+Status: reviewed
+Location Source: us
+Magnitude Source: us
+
